@@ -1,0 +1,8734 @@
+[
+  {
+    "id": 1480,
+    "title": "Running Sum of 1d Array",
+    "slug": "running-sum-of-1d-array",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "id": 1672,
+    "title": "Richest Customer Wealth",
+    "slug": "richest-customer-wealth",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 412,
+    "title": "Fizz Buzz",
+    "slug": "fizz-buzz",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 1342,
+    "title": "Number of Steps to Reduce a Number to Zero",
+    "slug": "number-of-steps-to-reduce-a-number-to-zero",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 1295,
+    "title": "Find Numbers with Even Number of Digits",
+    "slug": "find-numbers-with-even-number-of-digits",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "id": 1929,
+    "title": "Concatenation of Array",
+    "slug": "concatenation-of-array",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 1470,
+    "title": "Shuffle the Array",
+    "slug": "shuffle-the-array",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "id": 1431,
+    "title": "Kids With the Greatest Number of Candies",
+    "slug": "kids-with-the-greatest-number-of-candies",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "id": 1108,
+    "title": "Defanging an IP Address",
+    "slug": "defanging-an-ip-address",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "id": 2114,
+    "title": "Maximum Number of Words Found in Sentences",
+    "slug": "maximum-number-of-words-found-in-sentences",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array",
+      "String"
+    ]
+  },
+  {
+    "id": 344,
+    "title": "Reverse String",
+    "slug": "reverse-string",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 283,
+    "title": "Move Zeroes",
+    "slug": "move-zeroes",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Remove Duplicates from Sorted Array",
+    "slug": "remove-duplicates-from-sorted-array",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Merge Sorted Array",
+    "slug": "merge-sorted-array",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Valid Palindrome",
+    "slug": "valid-palindrome",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 217,
+    "title": "Contains Duplicate",
+    "slug": "contains-duplicate",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 242,
+    "title": "Valid Anagram",
+    "slug": "valid-anagram",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 383,
+    "title": "Ransom Note",
+    "slug": "ransom-note",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "id": 205,
+    "title": "Isomorphic Strings",
+    "slug": "isomorphic-strings",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "id": 1486,
+    "title": "XOR Operation in an Array",
+    "slug": "xor-operation-in-an-array",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 1365,
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "slug": "how-many-numbers-are-smaller-than-the-current-number",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "id": 1512,
+    "title": "Number of Good Pairs",
+    "slug": "number-of-good-pairs",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Counting"
+    ]
+  },
+  {
+    "id": 1528,
+    "title": "Shuffle String",
+    "slug": "shuffle-string",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array",
+      "String"
+    ]
+  },
+  {
+    "id": 1678,
+    "title": "Goal Parser Interpretation",
+    "slug": "goal-parser-interpretation",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "id": 1768,
+    "title": "Merge Strings Alternately",
+    "slug": "merge-strings-alternately",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 1920,
+    "title": "Build Array from Permutation",
+    "slug": "build-array-from-permutation",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 2011,
+    "title": "Final Value of Variable After Performing Operations",
+    "slug": "final-value-of-variable-after-performing-operations",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Array",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 2235,
+    "title": "Add Two Integers",
+    "slug": "add-two-integers",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "id": 2469,
+    "title": "Convert the Temperature",
+    "slug": "convert-the-temperature",
+    "difficulty": "Easy",
+    "phase": 0,
+    "topic": "Kotlin 감각 되찾기",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Longest Common Prefix",
+    "slug": "longest-common-prefix",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Length of Last Word",
+    "slug": "length-of-last-word",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "id": 228,
+    "title": "Summary Ranges",
+    "slug": "summary-ranges",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "id": 290,
+    "title": "Word Pattern",
+    "slug": "word-pattern",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "id": 405,
+    "title": "Convert a Number to Hexadecimal",
+    "slug": "convert-a-number-to-hexadecimal",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 415,
+    "title": "Add Strings",
+    "slug": "add-strings",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 434,
+    "title": "Number of Segments in a String",
+    "slug": "number-of-segments-in-a-string",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "id": 448,
+    "title": "Find All Numbers Disappeared in an Array",
+    "slug": "find-all-numbers-disappeared-in-an-array",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "id": 459,
+    "title": "Repeated Substring Pattern",
+    "slug": "repeated-substring-pattern",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String",
+      "String Matching",
+      "Z Algorithm",
+      "Knuth–Morris–Pratt Algorithm"
+    ]
+  },
+  {
+    "id": 482,
+    "title": "License Key Formatting",
+    "slug": "license-key-formatting",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "id": 485,
+    "title": "Max Consecutive Ones",
+    "slug": "max-consecutive-ones",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "id": 495,
+    "title": "Teemo Attacking",
+    "slug": "teemo-attacking",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 500,
+    "title": "Keyboard Row",
+    "slug": "keyboard-row",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "id": 504,
+    "title": "Base 7",
+    "slug": "base-7",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "id": 520,
+    "title": "Detect Capital",
+    "slug": "detect-capital",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "id": 521,
+    "title": "Longest Uncommon Subsequence I",
+    "slug": "longest-uncommon-subsequence-i",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "id": 551,
+    "title": "Student Attendance Record I",
+    "slug": "student-attendance-record-i",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "id": 575,
+    "title": "Distribute Candies",
+    "slug": "distribute-candies",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "id": 598,
+    "title": "Range Addition II",
+    "slug": "range-addition-ii",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "id": 599,
+    "title": "Minimum Index Sum of Two Lists",
+    "slug": "minimum-index-sum-of-two-lists",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "id": 657,
+    "title": "Robot Return to Origin",
+    "slug": "robot-return-to-origin",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 674,
+    "title": "Longest Continuous Increasing Subsequence",
+    "slug": "longest-continuous-increasing-subsequence",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "id": 697,
+    "title": "Degree of an Array",
+    "slug": "degree-of-an-array",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "id": 709,
+    "title": "To Lower Case",
+    "slug": "to-lower-case",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "id": 717,
+    "title": "1-bit and 2-bit Characters",
+    "slug": "1-bit-and-2-bit-characters",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "id": 746,
+    "title": "Min Cost Climbing Stairs",
+    "slug": "min-cost-climbing-stairs",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 747,
+    "title": "Largest Number At Least Twice of Others",
+    "slug": "largest-number-at-least-twice-of-others",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 748,
+    "title": "Shortest Completing Word",
+    "slug": "shortest-completing-word",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "id": 771,
+    "title": "Jewels and Stones",
+    "slug": "jewels-and-stones",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "id": 796,
+    "title": "Rotate String",
+    "slug": "rotate-string",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String",
+      "String Matching"
+    ]
+  },
+  {
+    "id": 804,
+    "title": "Unique Morse Code Words",
+    "slug": "unique-morse-code-words",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "id": 806,
+    "title": "Number of Lines To Write String",
+    "slug": "number-of-lines-to-write-string",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "String"
+    ]
+  },
+  {
+    "id": 812,
+    "title": "Largest Triangle Area",
+    "slug": "largest-triangle-area",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry",
+      "Polygons"
+    ]
+  },
+  {
+    "id": 819,
+    "title": "Most Common Word",
+    "slug": "most-common-word",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "id": 824,
+    "title": "Goat Latin",
+    "slug": "goat-latin",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "id": 830,
+    "title": "Positions of Large Groups",
+    "slug": "positions-of-large-groups",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "id": 859,
+    "title": "Buddy Strings",
+    "slug": "buddy-strings",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "id": 884,
+    "title": "Uncommon Words from Two Sentences",
+    "slug": "uncommon-words-from-two-sentences",
+    "difficulty": "Easy",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Zigzag Conversion",
+    "slug": "zigzag-conversion",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "String to Integer (atoi)",
+    "slug": "string-to-integer-atoi",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Count and Say",
+    "slug": "count-and-say",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Insert Interval",
+    "slug": "insert-interval",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "id": 208,
+    "title": "Implement Trie (Prefix Tree)",
+    "slug": "implement-trie-prefix-tree",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "id": 284,
+    "title": "Peeking Iterator",
+    "slug": "peeking-iterator",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Design",
+      "Iterator"
+    ]
+  },
+  {
+    "id": 299,
+    "title": "Bulls and Cows",
+    "slug": "bulls-and-cows",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "id": 307,
+    "title": "Range Sum Query - Mutable",
+    "slug": "range-sum-query-mutable",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Design",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Sqrt Decomposition"
+    ]
+  },
+  {
+    "id": 454,
+    "title": "4Sum II",
+    "slug": "4sum-ii",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "id": 468,
+    "title": "Validate IP Address",
+    "slug": "validate-ip-address",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "id": 535,
+    "title": "Encode and Decode TinyURL",
+    "slug": "encode-and-decode-tinyurl",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "id": 554,
+    "title": "Brick Wall",
+    "slug": "brick-wall",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "id": 583,
+    "title": "Delete Operation for Two Strings",
+    "slug": "delete-operation-for-two-strings",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Longest Common Subsequence"
+    ]
+  },
+  {
+    "id": 592,
+    "title": "Fraction Addition and Subtraction",
+    "slug": "fraction-addition-and-subtraction",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation",
+      "Euclidean Algorithm",
+      "Greatest Common Divisor"
+    ]
+  },
+  {
+    "id": 609,
+    "title": "Find Duplicate File in System",
+    "slug": "find-duplicate-file-in-system",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
+    "id": 640,
+    "title": "Solve the Equation",
+    "slug": "solve-the-equation",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation",
+      "Linear Algebra"
+    ]
+  },
+  {
+    "id": 648,
+    "title": "Replace Words",
+    "slug": "replace-words",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "id": 665,
+    "title": "Non-decreasing Array",
+    "slug": "non-decreasing-array",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "id": 667,
+    "title": "Beautiful Arrangement II",
+    "slug": "beautiful-arrangement-ii",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "id": 673,
+    "title": "Number of Longest Increasing Subsequence",
+    "slug": "number-of-longest-increasing-subsequence",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Longest Increasing Subsequence"
+    ]
+  },
+  {
+    "id": 677,
+    "title": "Map Sum Pairs",
+    "slug": "map-sum-pairs",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "id": 686,
+    "title": "Repeated String Match",
+    "slug": "repeated-string-match",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String",
+      "String Matching",
+      "Z Algorithm",
+      "Knuth–Morris–Pratt Algorithm",
+      "Boyer–Moore String-Search Algorithm"
+    ]
+  },
+  {
+    "id": 712,
+    "title": "Minimum ASCII Delete Sum for Two Strings",
+    "slug": "minimum-ascii-delete-sum-for-two-strings",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Longest Common Subsequence"
+    ]
+  },
+  {
+    "id": 722,
+    "title": "Remove Comments",
+    "slug": "remove-comments",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "String"
+    ]
+  },
+  {
+    "id": 740,
+    "title": "Delete and Earn",
+    "slug": "delete-and-earn",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 764,
+    "title": "Largest Plus Sign",
+    "slug": "largest-plus-sign",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 775,
+    "title": "Global and Local Inversions",
+    "slug": "global-and-local-inversions",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "id": 789,
+    "title": "Escape The Ghosts",
+    "slug": "escape-the-ghosts",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "id": 811,
+    "title": "Subdomain Visit Count",
+    "slug": "subdomain-visit-count",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Counting"
+    ]
+  },
+  {
+    "id": 813,
+    "title": "Largest Sum of Averages",
+    "slug": "largest-sum-of-averages",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "id": 817,
+    "title": "Linked List Components",
+    "slug": "linked-list-components",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "id": 820,
+    "title": "Short Encoding of Words",
+    "slug": "short-encoding-of-words",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
+    "id": 822,
+    "title": "Card Flipping Game",
+    "slug": "card-flipping-game",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
+    "id": 831,
+    "title": "Masking Personal Information",
+    "slug": "masking-personal-information",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "String"
+    ]
+  },
+  {
+    "id": 838,
+    "title": "Push Dominoes",
+    "slug": "push-dominoes",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 845,
+    "title": "Longest Mountain in Array",
+    "slug": "longest-mountain-in-array",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ]
+  },
+  {
+    "id": 848,
+    "title": "Shifting Letters",
+    "slug": "shifting-letters",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "String",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "id": 849,
+    "title": "Maximize Distance to Closest Person",
+    "slug": "maximize-distance-to-closest-person",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array"
+    ]
+  },
+  {
+    "id": 852,
+    "title": "Peak Index in a Mountain Array",
+    "slug": "peak-index-in-a-mountain-array",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Ternary Search"
+    ]
+  },
+  {
+    "id": 869,
+    "title": "Reordered Power of 2",
+    "slug": "reordered-power-of-2",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Sorting",
+      "Counting",
+      "Enumeration"
+    ]
+  },
+  {
+    "id": 873,
+    "title": "Length of Longest Fibonacci Subsequence",
+    "slug": "length-of-longest-fibonacci-subsequence",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 874,
+    "title": "Walking Robot Simulation",
+    "slug": "walking-robot-simulation",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 875,
+    "title": "Koko Eating Bananas",
+    "slug": "koko-eating-bananas",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 877,
+    "title": "Stone Game",
+    "slug": "stone-game",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Minimax",
+      "Game Theory",
+      "Zero-Sum Game"
+    ]
+  },
+  {
+    "id": 885,
+    "title": "Spiral Matrix III",
+    "slug": "spiral-matrix-iii",
+    "difficulty": "Medium",
+    "phase": 1,
+    "topic": "배열 · 문자열 · 해시",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Remove Element",
+    "slug": "remove-element",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Find the Index of the First Occurrence in a String",
+    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "String Matching",
+      "Z Algorithm",
+      "Knuth–Morris–Pratt Algorithm",
+      "Boyer–Moore String-Search Algorithm"
+    ]
+  },
+  {
+    "id": 202,
+    "title": "Happy Number",
+    "slug": "happy-number",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Two Pointers",
+      "Floyd's Cycle Finding Algorithm"
+    ]
+  },
+  {
+    "id": 219,
+    "title": "Contains Duplicate II",
+    "slug": "contains-duplicate-ii",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
+    "id": 303,
+    "title": "Range Sum Query - Immutable",
+    "slug": "range-sum-query-immutable",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Design",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "id": 345,
+    "title": "Reverse Vowels of a String",
+    "slug": "reverse-vowels-of-a-string",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 349,
+    "title": "Intersection of Two Arrays",
+    "slug": "intersection-of-two-arrays",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 350,
+    "title": "Intersection of Two Arrays II",
+    "slug": "intersection-of-two-arrays-ii",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 392,
+    "title": "Is Subsequence",
+    "slug": "is-subsequence",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 455,
+    "title": "Assign Cookies",
+    "slug": "assign-cookies",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Quicksort"
+    ]
+  },
+  {
+    "id": 541,
+    "title": "Reverse String II",
+    "slug": "reverse-string-ii",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 557,
+    "title": "Reverse Words in a String III",
+    "slug": "reverse-words-in-a-string-iii",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 594,
+    "title": "Longest Harmonious Subsequence",
+    "slug": "longest-harmonious-subsequence",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "id": 643,
+    "title": "Maximum Average Subarray I",
+    "slug": "maximum-average-subarray-i",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
+    "id": 680,
+    "title": "Valid Palindrome II",
+    "slug": "valid-palindrome-ii",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 696,
+    "title": "Count Binary Substrings",
+    "slug": "count-binary-substrings",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 724,
+    "title": "Find Pivot Index",
+    "slug": "find-pivot-index",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "id": 821,
+    "title": "Shortest Distance to a Character",
+    "slug": "shortest-distance-to-a-character",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 905,
+    "title": "Sort Array By Parity",
+    "slug": "sort-array-by-parity",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 917,
+    "title": "Reverse Only Letters",
+    "slug": "reverse-only-letters",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 922,
+    "title": "Sort Array By Parity II",
+    "slug": "sort-array-by-parity-ii",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 925,
+    "title": "Long Pressed Name",
+    "slug": "long-pressed-name",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 942,
+    "title": "DI String Match",
+    "slug": "di-string-match",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 977,
+    "title": "Squares of a Sorted Array",
+    "slug": "squares-of-a-sorted-array",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 1089,
+    "title": "Duplicate Zeros",
+    "slug": "duplicate-zeros",
+    "difficulty": "Easy",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "slug": "longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "slug": "longest-palindromic-substring",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming",
+      "Manacher"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Container With Most Water",
+    "slug": "container-with-most-water",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "3Sum",
+    "slug": "3sum",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "3Sum Closest",
+    "slug": "3sum-closest",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "4Sum",
+    "slug": "4sum",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Next Permutation",
+    "slug": "next-permutation",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Sort Colors",
+    "slug": "sort-colors",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting",
+      "Quicksort",
+      "Bubble Sort"
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Remove Duplicates from Sorted Array II",
+    "slug": "remove-duplicates-from-sorted-array-ii",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Reverse Words in a String",
+    "slug": "reverse-words-in-a-string",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 165,
+    "title": "Compare Version Numbers",
+    "slug": "compare-version-numbers",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 167,
+    "title": "Two Sum II - Input Array Is Sorted",
+    "slug": "two-sum-ii-input-array-is-sorted",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 187,
+    "title": "Repeated DNA Sequences",
+    "slug": "repeated-dna-sequences",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function",
+      "Z Algorithm",
+      "Boyer–Moore String-Search Algorithm"
+    ]
+  },
+  {
+    "id": 189,
+    "title": "Rotate Array",
+    "slug": "rotate-array",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
+    "id": 209,
+    "title": "Minimum Size Subarray Sum",
+    "slug": "minimum-size-subarray-sum",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "id": 238,
+    "title": "Product of Array Except Self",
+    "slug": "product-of-array-except-self",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "id": 287,
+    "title": "Find the Duplicate Number",
+    "slug": "find-the-duplicate-number",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Bit Manipulation",
+      "Pigeonhole Principle",
+      "Floyd's Cycle Finding Algorithm"
+    ]
+  },
+  {
+    "id": 395,
+    "title": "Longest Substring with At Least K Repeating Characters",
+    "slug": "longest-substring-with-at-least-k-repeating-characters",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Divide and Conquer",
+      "Sliding Window"
+    ]
+  },
+  {
+    "id": 413,
+    "title": "Arithmetic Slices",
+    "slug": "arithmetic-slices",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Sliding Window"
+    ]
+  },
+  {
+    "id": 424,
+    "title": "Longest Repeating Character Replacement",
+    "slug": "longest-repeating-character-replacement",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "id": 438,
+    "title": "Find All Anagrams in a String",
+    "slug": "find-all-anagrams-in-a-string",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "id": 443,
+    "title": "String Compression",
+    "slug": "string-compression",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 457,
+    "title": "Circular Array Loop",
+    "slug": "circular-array-loop",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Floyd's Cycle Finding Algorithm"
+    ]
+  },
+  {
+    "id": 475,
+    "title": "Heaters",
+    "slug": "heaters",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 481,
+    "title": "Magical String",
+    "slug": "magical-string",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 497,
+    "title": "Random Point in Non-overlapping Rectangles",
+    "slug": "random-point-in-non-overlapping-rectangles",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Reservoir Sampling",
+      "Prefix Sum",
+      "Ordered Set",
+      "Randomized"
+    ]
+  },
+  {
+    "id": 522,
+    "title": "Longest Uncommon Subsequence II",
+    "slug": "longest-uncommon-subsequence-ii",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 523,
+    "title": "Continuous Subarray Sum",
+    "slug": "continuous-subarray-sum",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Prefix Sum",
+      "Pigeonhole Principle"
+    ]
+  },
+  {
+    "id": 524,
+    "title": "Longest Word in Dictionary through Deleting",
+    "slug": "longest-word-in-dictionary-through-deleting",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 525,
+    "title": "Contiguous Array",
+    "slug": "contiguous-array",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "id": 528,
+    "title": "Random Pick with Weight",
+    "slug": "random-pick-with-weight",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Math",
+      "Binary Search",
+      "Prefix Sum",
+      "Randomized"
+    ]
+  },
+  {
+    "id": 532,
+    "title": "K-diff Pairs in an Array",
+    "slug": "k-diff-pairs-in-an-array",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 556,
+    "title": "Next Greater Element III",
+    "slug": "next-greater-element-iii",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Math",
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 560,
+    "title": "Subarray Sum Equals K",
+    "slug": "subarray-sum-equals-k",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "id": 567,
+    "title": "Permutation in String",
+    "slug": "permutation-in-string",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "id": 611,
+    "title": "Valid Triangle Number",
+    "slug": "valid-triangle-number",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 633,
+    "title": "Sum of Square Numbers",
+    "slug": "sum-of-square-numbers",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Math",
+      "Two Pointers",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 647,
+    "title": "Palindromic Substrings",
+    "slug": "palindromic-substrings",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 713,
+    "title": "Subarray Product Less Than K",
+    "slug": "subarray-product-less-than-k",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "id": 718,
+    "title": "Maximum Length of Repeated Subarray",
+    "slug": "maximum-length-of-repeated-subarray",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sliding Window",
+      "Rolling Hash",
+      "Hash Function"
+    ]
+  },
+  {
+    "id": 731,
+    "title": "My Calendar II",
+    "slug": "my-calendar-ii",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Segment Tree",
+      "Prefix Sum",
+      "Ordered Set"
+    ]
+  },
+  {
+    "id": 763,
+    "title": "Partition Labels",
+    "slug": "partition-labels",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 777,
+    "title": "Swap Adjacent in LR String",
+    "slug": "swap-adjacent-in-lr-string",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 795,
+    "title": "Number of Subarrays with Bounded Maximum",
+    "slug": "number-of-subarrays-with-bounded-maximum",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
+    "id": 809,
+    "title": "Expressive Words",
+    "slug": "expressive-words",
+    "difficulty": "Medium",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "String"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Substring with Concatenation of All Words",
+    "slug": "substring-with-concatenation-of-all-words",
+    "difficulty": "Hard",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Minimum Window Substring",
+    "slug": "minimum-window-substring",
+    "difficulty": "Hard",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ]
+  },
+  {
+    "id": 220,
+    "title": "Contains Duplicate III",
+    "slug": "contains-duplicate-iii",
+    "difficulty": "Hard",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Sliding Window",
+      "Sorting",
+      "Bucket Sort",
+      "Ordered Set"
+    ]
+  },
+  {
+    "id": 321,
+    "title": "Create Maximum Number",
+    "slug": "create-maximum-number",
+    "difficulty": "Hard",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "id": 410,
+    "title": "Split Array Largest Sum",
+    "slug": "split-array-largest-sum",
+    "difficulty": "Hard",
+    "phase": 2,
+    "topic": "투 포인터 · 윈도 · 누적합",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Search Insert Position",
+    "slug": "search-insert-position",
+    "difficulty": "Easy",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Sqrt(x)",
+    "slug": "sqrtx",
+    "difficulty": "Easy",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Math",
+      "Binary Search",
+      "Newton's Method"
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Majority Element",
+    "slug": "majority-element",
+    "difficulty": "Easy",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting",
+      "Boyer–Moore Majority Vote Algorithm"
+    ]
+  },
+  {
+    "id": 268,
+    "title": "Missing Number",
+    "slug": "missing-number",
+    "difficulty": "Easy",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 278,
+    "title": "First Bad Version",
+    "slug": "first-bad-version",
+    "difficulty": "Easy",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Binary Search",
+      "Interactive"
+    ]
+  },
+  {
+    "id": 367,
+    "title": "Valid Perfect Square",
+    "slug": "valid-perfect-square",
+    "difficulty": "Easy",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 374,
+    "title": "Guess Number Higher or Lower",
+    "slug": "guess-number-higher-or-lower",
+    "difficulty": "Easy",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Binary Search",
+      "Interactive"
+    ]
+  },
+  {
+    "id": 389,
+    "title": "Find the Difference",
+    "slug": "find-the-difference",
+    "difficulty": "Easy",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 414,
+    "title": "Third Maximum Number",
+    "slug": "third-maximum-number",
+    "difficulty": "Easy",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 441,
+    "title": "Arranging Coins",
+    "slug": "arranging-coins",
+    "difficulty": "Easy",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 561,
+    "title": "Array Partition",
+    "slug": "array-partition",
+    "difficulty": "Easy",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "id": 628,
+    "title": "Maximum Product of Three Numbers",
+    "slug": "maximum-product-of-three-numbers",
+    "difficulty": "Easy",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 645,
+    "title": "Set Mismatch",
+    "slug": "set-mismatch",
+    "difficulty": "Easy",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 704,
+    "title": "Binary Search",
+    "slug": "binary-search",
+    "difficulty": "Easy",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 744,
+    "title": "Find Smallest Letter Greater Than Target",
+    "slug": "find-smallest-letter-greater-than-target",
+    "difficulty": "Easy",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "slug": "search-in-rotated-sorted-array",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "slug": "find-first-and-last-position-of-element-in-sorted-array",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Group Anagrams",
+    "slug": "group-anagrams",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "slug": "merge-intervals",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Quicksort"
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Search in Rotated Sorted Array II",
+    "slug": "search-in-rotated-sorted-array-ii",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 153,
+    "title": "Find Minimum in Rotated Sorted Array",
+    "slug": "find-minimum-in-rotated-sorted-array",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 162,
+    "title": "Find Peak Element",
+    "slug": "find-peak-element",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 164,
+    "title": "Maximum Gap",
+    "slug": "maximum-gap",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Bucket Sort",
+      "Radix Sort",
+      "Pigeonhole Principle"
+    ]
+  },
+  {
+    "id": 179,
+    "title": "Largest Number",
+    "slug": "largest-number",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "String",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 229,
+    "title": "Majority Element II",
+    "slug": "majority-element-ii",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting",
+      "Boyer–Moore Majority Vote Algorithm"
+    ]
+  },
+  {
+    "id": 274,
+    "title": "H-Index",
+    "slug": "h-index",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting Sort"
+    ]
+  },
+  {
+    "id": 275,
+    "title": "H-Index II",
+    "slug": "h-index-ii",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 300,
+    "title": "Longest Increasing Subsequence",
+    "slug": "longest-increasing-subsequence",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Longest Increasing Subsequence"
+    ]
+  },
+  {
+    "id": 324,
+    "title": "Wiggle Sort II",
+    "slug": "wiggle-sort-ii",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Greedy",
+      "Sorting",
+      "Quickselect"
+    ]
+  },
+  {
+    "id": 368,
+    "title": "Largest Divisible Subset",
+    "slug": "largest-divisible-subset",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 400,
+    "title": "Nth Digit",
+    "slug": "nth-digit",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 406,
+    "title": "Queue Reconstruction by Height",
+    "slug": "queue-reconstruction-by-height",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 435,
+    "title": "Non-overlapping Intervals",
+    "slug": "non-overlapping-intervals",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 436,
+    "title": "Find Right Interval",
+    "slug": "find-right-interval",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 442,
+    "title": "Find All Duplicates in an Array",
+    "slug": "find-all-duplicates-in-an-array",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 452,
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "slug": "minimum-number-of-arrows-to-burst-balloons",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 462,
+    "title": "Minimum Moves to Equal Array Elements II",
+    "slug": "minimum-moves-to-equal-array-elements-ii",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 539,
+    "title": "Minimum Time Difference",
+    "slug": "minimum-time-difference",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Math",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 540,
+    "title": "Single Element in a Sorted Array",
+    "slug": "single-element-in-a-sorted-array",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 646,
+    "title": "Maximum Length of Pair Chain",
+    "slug": "maximum-length-of-pair-chain",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting",
+      "Longest Increasing Subsequence"
+    ]
+  },
+  {
+    "id": 720,
+    "title": "Longest Word in Dictionary",
+    "slug": "longest-word-in-dictionary",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 729,
+    "title": "My Calendar I",
+    "slug": "my-calendar-i",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Segment Tree",
+      "Ordered Set"
+    ]
+  },
+  {
+    "id": 754,
+    "title": "Reach a Number",
+    "slug": "reach-a-number",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 791,
+    "title": "Custom Sort String",
+    "slug": "custom-sort-string",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 792,
+    "title": "Number of Matching Subsequences",
+    "slug": "number-of-matching-subsequences",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Binary Search",
+      "Dynamic Programming",
+      "Trie",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 823,
+    "title": "Binary Trees With Factors",
+    "slug": "binary-trees-with-factors",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 825,
+    "title": "Friends Of Appropriate Ages",
+    "slug": "friends-of-appropriate-ages",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 826,
+    "title": "Most Profit Assigning Work",
+    "slug": "most-profit-assigning-work",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 833,
+    "title": "Find And Replace in String",
+    "slug": "find-and-replace-in-string",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 846,
+    "title": "Hand of Straights",
+    "slug": "hand-of-straights",
+    "difficulty": "Medium",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Median of Two Sorted Arrays",
+    "slug": "median-of-two-sorted-arrays",
+    "difficulty": "Hard",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer"
+    ]
+  },
+  {
+    "id": 154,
+    "title": "Find Minimum in Rotated Sorted Array II",
+    "slug": "find-minimum-in-rotated-sorted-array-ii",
+    "difficulty": "Hard",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
+    "id": 315,
+    "title": "Count of Smaller Numbers After Self",
+    "slug": "count-of-smaller-numbers-after-self",
+    "difficulty": "Hard",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Merge Sort",
+      "Ordered Set",
+      "Treap"
+    ]
+  },
+  {
+    "id": 327,
+    "title": "Count of Range Sum",
+    "slug": "count-of-range-sum",
+    "difficulty": "Hard",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Merge Sort",
+      "Ordered Set",
+      "Treap"
+    ]
+  },
+  {
+    "id": 354,
+    "title": "Russian Doll Envelopes",
+    "slug": "russian-doll-envelopes",
+    "difficulty": "Hard",
+    "phase": 3,
+    "topic": "정렬 · 이분 탐색",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting",
+      "Longest Increasing Subsequence"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Merge Two Sorted Lists",
+    "slug": "merge-two-sorted-lists",
+    "difficulty": "Easy",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Remove Duplicates from Sorted List",
+    "slug": "remove-duplicates-from-sorted-list",
+    "difficulty": "Easy",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Linked List Cycle",
+    "slug": "linked-list-cycle",
+    "difficulty": "Easy",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers",
+      "Floyd's Cycle Finding Algorithm"
+    ]
+  },
+  {
+    "id": 160,
+    "title": "Intersection of Two Linked Lists",
+    "slug": "intersection-of-two-linked-lists",
+    "difficulty": "Easy",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "id": 203,
+    "title": "Remove Linked List Elements",
+    "slug": "remove-linked-list-elements",
+    "difficulty": "Easy",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "id": 206,
+    "title": "Reverse Linked List",
+    "slug": "reverse-linked-list",
+    "difficulty": "Easy",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "id": 234,
+    "title": "Palindrome Linked List",
+    "slug": "palindrome-linked-list",
+    "difficulty": "Easy",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "id": 705,
+    "title": "Design HashSet",
+    "slug": "design-hashset",
+    "difficulty": "Easy",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "id": 706,
+    "title": "Design HashMap",
+    "slug": "design-hashmap",
+    "difficulty": "Easy",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Hash Function"
+    ]
+  },
+  {
+    "id": 876,
+    "title": "Middle of the Linked List",
+    "slug": "middle-of-the-linked-list",
+    "difficulty": "Easy",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "id": 1290,
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "slug": "convert-binary-number-in-a-linked-list-to-integer",
+    "difficulty": "Easy",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Math"
+    ]
+  },
+  {
+    "id": 3507,
+    "title": "Minimum Pair Removal to Sort Array I",
+    "slug": "minimum-pair-removal-to-sort-array-i",
+    "difficulty": "Easy",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Linked List",
+      "Heap (Priority Queue)",
+      "Simulation",
+      "Doubly-Linked List",
+      "Ordered Set"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Add Two Numbers",
+    "slug": "add-two-numbers",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Remove Nth Node From End of List",
+    "slug": "remove-nth-node-from-end-of-list",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Swap Nodes in Pairs",
+    "slug": "swap-nodes-in-pairs",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Rotate List",
+    "slug": "rotate-list",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Remove Duplicates from Sorted List II",
+    "slug": "remove-duplicates-from-sorted-list-ii",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Partition List",
+    "slug": "partition-list",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Reverse Linked List II",
+    "slug": "reverse-linked-list-ii",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Convert Sorted List to Binary Search Tree",
+    "slug": "convert-sorted-list-to-binary-search-tree",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Flatten Binary Tree to Linked List",
+    "slug": "flatten-binary-tree-to-linked-list",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Populating Next Right Pointers in Each Node",
+    "slug": "populating-next-right-pointers-in-each-node",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Populating Next Right Pointers in Each Node II",
+    "slug": "populating-next-right-pointers-in-each-node-ii",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Copy List with Random Pointer",
+    "slug": "copy-list-with-random-pointer",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Linked List Cycle II",
+    "slug": "linked-list-cycle-ii",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers",
+      "Floyd's Cycle Finding Algorithm"
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Reorder List",
+    "slug": "reorder-list",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "slug": "lru-cache",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Insertion Sort List",
+    "slug": "insertion-sort-list",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Sort List",
+    "slug": "sort-list",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Divide and Conquer",
+      "Sorting",
+      "Merge Sort"
+    ]
+  },
+  {
+    "id": 237,
+    "title": "Delete Node in a Linked List",
+    "slug": "delete-node-in-a-linked-list",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "id": 328,
+    "title": "Odd Even Linked List",
+    "slug": "odd-even-linked-list",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List"
+    ]
+  },
+  {
+    "id": 355,
+    "title": "Design Twitter",
+    "slug": "design-twitter",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "id": 382,
+    "title": "Linked List Random Node",
+    "slug": "linked-list-random-node",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Reservoir Sampling",
+      "Randomized"
+    ]
+  },
+  {
+    "id": 430,
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "slug": "flatten-a-multilevel-doubly-linked-list",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Depth-First Search",
+      "Doubly-Linked List"
+    ]
+  },
+  {
+    "id": 445,
+    "title": "Add Two Numbers II",
+    "slug": "add-two-numbers-ii",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Stack"
+    ]
+  },
+  {
+    "id": 622,
+    "title": "Design Circular Queue",
+    "slug": "design-circular-queue",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "id": 641,
+    "title": "Design Circular Deque",
+    "slug": "design-circular-deque",
+    "difficulty": "Medium",
+    "phase": 4,
+    "topic": "연결 리스트",
+    "tags": [
+      "Array",
+      "Linked List",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "slug": "valid-parentheses",
+    "difficulty": "Easy",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Binary Tree Inorder Traversal",
+    "slug": "binary-tree-inorder-traversal",
+    "difficulty": "Easy",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Binary Tree Preorder Traversal",
+    "slug": "binary-tree-preorder-traversal",
+    "difficulty": "Easy",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Binary Tree Postorder Traversal",
+    "slug": "binary-tree-postorder-traversal",
+    "difficulty": "Easy",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 225,
+    "title": "Implement Stack using Queues",
+    "slug": "implement-stack-using-queues",
+    "difficulty": "Easy",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Stack",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "id": 232,
+    "title": "Implement Queue using Stacks",
+    "slug": "implement-queue-using-stacks",
+    "difficulty": "Easy",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Stack",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
+    "id": 387,
+    "title": "First Unique Character in a String",
+    "slug": "first-unique-character-in-a-string",
+    "difficulty": "Easy",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ]
+  },
+  {
+    "id": 496,
+    "title": "Next Greater Element I",
+    "slug": "next-greater-element-i",
+    "difficulty": "Easy",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "id": 589,
+    "title": "N-ary Tree Preorder Traversal",
+    "slug": "n-ary-tree-preorder-traversal",
+    "difficulty": "Easy",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "id": 590,
+    "title": "N-ary Tree Postorder Traversal",
+    "slug": "n-ary-tree-postorder-traversal",
+    "difficulty": "Easy",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "id": 682,
+    "title": "Baseball Game",
+    "slug": "baseball-game",
+    "difficulty": "Easy",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 844,
+    "title": "Backspace String Compare",
+    "slug": "backspace-string-compare",
+    "difficulty": "Easy",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 897,
+    "title": "Increasing Order Search Tree",
+    "slug": "increasing-order-search-tree",
+    "difficulty": "Easy",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 933,
+    "title": "Number of Recent Calls",
+    "slug": "number-of-recent-calls",
+    "difficulty": "Easy",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Design",
+      "Queue",
+      "Data Stream"
+    ]
+  },
+  {
+    "id": 1021,
+    "title": "Remove Outermost Parentheses",
+    "slug": "remove-outermost-parentheses",
+    "difficulty": "Easy",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Simplify Path",
+    "slug": "simplify-path",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Evaluate Reverse Polish Notation",
+    "slug": "evaluate-reverse-polish-notation",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Math",
+      "Stack"
+    ]
+  },
+  {
+    "id": 155,
+    "title": "Min Stack",
+    "slug": "min-stack",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Stack",
+      "Design"
+    ]
+  },
+  {
+    "id": 173,
+    "title": "Binary Search Tree Iterator",
+    "slug": "binary-search-tree-iterator",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Iterator"
+    ]
+  },
+  {
+    "id": 227,
+    "title": "Basic Calculator II",
+    "slug": "basic-calculator-ii",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Math",
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "id": 316,
+    "title": "Remove Duplicate Letters",
+    "slug": "remove-duplicate-letters",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "id": 331,
+    "title": "Verify Preorder Serialization of a Binary Tree",
+    "slug": "verify-preorder-serialization-of-a-binary-tree",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "String",
+      "Stack",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 341,
+    "title": "Flatten Nested List Iterator",
+    "slug": "flatten-nested-list-iterator",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Design",
+      "Queue",
+      "Iterator"
+    ]
+  },
+  {
+    "id": 385,
+    "title": "Mini Parser",
+    "slug": "mini-parser",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "String",
+      "Stack",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "id": 388,
+    "title": "Longest Absolute File Path",
+    "slug": "longest-absolute-file-path",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "String",
+      "Stack",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "id": 394,
+    "title": "Decode String",
+    "slug": "decode-string",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "id": 402,
+    "title": "Remove K Digits",
+    "slug": "remove-k-digits",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "id": 456,
+    "title": "132 Pattern",
+    "slug": "132-pattern",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Stack",
+      "Monotonic Stack",
+      "Ordered Set"
+    ]
+  },
+  {
+    "id": 503,
+    "title": "Next Greater Element II",
+    "slug": "next-greater-element-ii",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "id": 581,
+    "title": "Shortest Unsorted Continuous Subarray",
+    "slug": "shortest-unsorted-continuous-subarray",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Stack",
+      "Greedy",
+      "Sorting",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "id": 636,
+    "title": "Exclusive Time of Functions",
+    "slug": "exclusive-time-of-functions",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Stack"
+    ]
+  },
+  {
+    "id": 649,
+    "title": "Dota2 Senate",
+    "slug": "dota2-senate",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "String",
+      "Greedy",
+      "Queue"
+    ]
+  },
+  {
+    "id": 654,
+    "title": "Maximum Binary Tree",
+    "slug": "maximum-binary-tree",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Stack",
+      "Tree",
+      "Monotonic Stack",
+      "Binary Tree",
+      "Cartesian Tree"
+    ]
+  },
+  {
+    "id": 678,
+    "title": "Valid Parenthesis String",
+    "slug": "valid-parenthesis-string",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy",
+      "Bracket Sequences"
+    ]
+  },
+  {
+    "id": 735,
+    "title": "Asteroid Collision",
+    "slug": "asteroid-collision",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 739,
+    "title": "Daily Temperatures",
+    "slug": "daily-temperatures",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "id": 769,
+    "title": "Max Chunks To Make Sorted",
+    "slug": "max-chunks-to-make-sorted",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Stack",
+      "Greedy",
+      "Sorting",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "id": 853,
+    "title": "Car Fleet",
+    "slug": "car-fleet",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Stack",
+      "Sorting",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "id": 856,
+    "title": "Score of Parentheses",
+    "slug": "score-of-parentheses",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ]
+  },
+  {
+    "id": 880,
+    "title": "Decoded String at Index",
+    "slug": "decoded-string-at-index",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "String",
+      "Stack"
+    ]
+  },
+  {
+    "id": 901,
+    "title": "Online Stock Span",
+    "slug": "online-stock-span",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Stack",
+      "Design",
+      "Monotonic Stack",
+      "Data Stream"
+    ]
+  },
+  {
+    "id": 907,
+    "title": "Sum of Subarray Minimums",
+    "slug": "sum-of-subarray-minimums",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "id": 918,
+    "title": "Maximum Sum Circular Subarray",
+    "slug": "maximum-sum-circular-subarray",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming",
+      "Queue",
+      "Monotonic Queue"
+    ]
+  },
+  {
+    "id": 921,
+    "title": "Minimum Add to Make Parentheses Valid",
+    "slug": "minimum-add-to-make-parentheses-valid",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Bracket Sequences"
+    ]
+  },
+  {
+    "id": 946,
+    "title": "Validate Stack Sequences",
+    "slug": "validate-stack-sequences",
+    "difficulty": "Medium",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Longest Valid Parentheses",
+    "slug": "longest-valid-parentheses",
+    "difficulty": "Hard",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Bracket Sequences"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "slug": "trapping-rain-water",
+    "difficulty": "Hard",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Largest Rectangle in Histogram",
+    "slug": "largest-rectangle-in-histogram",
+    "difficulty": "Hard",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Stack",
+      "Monotonic Stack",
+      "Range Minimum/Maximum Query"
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Maximal Rectangle",
+    "slug": "maximal-rectangle",
+    "difficulty": "Hard",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "id": 224,
+    "title": "Basic Calculator",
+    "slug": "basic-calculator",
+    "difficulty": "Hard",
+    "phase": 5,
+    "topic": "스택 · 큐",
+    "tags": [
+      "Math",
+      "String",
+      "Stack",
+      "Recursion"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Same Tree",
+    "slug": "same-tree",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Symmetric Tree",
+    "slug": "symmetric-tree",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Maximum Depth of Binary Tree",
+    "slug": "maximum-depth-of-binary-tree",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "slug": "convert-sorted-array-to-binary-search-tree",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Balanced Binary Tree",
+    "slug": "balanced-binary-tree",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Minimum Depth of Binary Tree",
+    "slug": "minimum-depth-of-binary-tree",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Path Sum",
+    "slug": "path-sum",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 226,
+    "title": "Invert Binary Tree",
+    "slug": "invert-binary-tree",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 404,
+    "title": "Sum of Left Leaves",
+    "slug": "sum-of-left-leaves",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 501,
+    "title": "Find Mode in Binary Search Tree",
+    "slug": "find-mode-in-binary-search-tree",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 506,
+    "title": "Relative Ranks",
+    "slug": "relative-ranks",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "id": 530,
+    "title": "Minimum Absolute Difference in BST",
+    "slug": "minimum-absolute-difference-in-bst",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 543,
+    "title": "Diameter of Binary Tree",
+    "slug": "diameter-of-binary-tree",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "DP on Trees"
+    ]
+  },
+  {
+    "id": 559,
+    "title": "Maximum Depth of N-ary Tree",
+    "slug": "maximum-depth-of-n-ary-tree",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "id": 563,
+    "title": "Binary Tree Tilt",
+    "slug": "binary-tree-tilt",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "DP on Trees"
+    ]
+  },
+  {
+    "id": 572,
+    "title": "Subtree of Another Tree",
+    "slug": "subtree-of-another-tree",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ]
+  },
+  {
+    "id": 617,
+    "title": "Merge Two Binary Trees",
+    "slug": "merge-two-binary-trees",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 637,
+    "title": "Average of Levels in Binary Tree",
+    "slug": "average-of-levels-in-binary-tree",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 653,
+    "title": "Two Sum IV - Input is a BST",
+    "slug": "two-sum-iv-input-is-a-bst",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Hash Table",
+      "Two Pointers",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 671,
+    "title": "Second Minimum Node In a Binary Tree",
+    "slug": "second-minimum-node-in-a-binary-tree",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 700,
+    "title": "Search in a Binary Search Tree",
+    "slug": "search-in-a-binary-search-tree",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 703,
+    "title": "Kth Largest Element in a Stream",
+    "slug": "kth-largest-element-in-a-stream",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Heap (Priority Queue)",
+      "Binary Tree",
+      "Data Stream"
+    ]
+  },
+  {
+    "id": 783,
+    "title": "Minimum Distance Between BST Nodes",
+    "slug": "minimum-distance-between-bst-nodes",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 872,
+    "title": "Leaf-Similar Trees",
+    "slug": "leaf-similar-trees",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 938,
+    "title": "Range Sum of BST",
+    "slug": "range-sum-of-bst",
+    "difficulty": "Easy",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Unique Binary Search Trees",
+    "slug": "unique-binary-search-trees",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Validate Binary Search Tree",
+    "slug": "validate-binary-search-tree",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Recover Binary Search Tree",
+    "slug": "recover-binary-search-tree",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Binary Tree Level Order Traversal",
+    "slug": "binary-tree-level-order-traversal",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "slug": "binary-tree-zigzag-level-order-traversal",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Binary Tree Level Order Traversal II",
+    "slug": "binary-tree-level-order-traversal-ii",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 129,
+    "title": "Sum Root to Leaf Numbers",
+    "slug": "sum-root-to-leaf-numbers",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 199,
+    "title": "Binary Tree Right Side View",
+    "slug": "binary-tree-right-side-view",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 215,
+    "title": "Kth Largest Element in an Array",
+    "slug": "kth-largest-element-in-an-array",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ]
+  },
+  {
+    "id": 222,
+    "title": "Count Complete Tree Nodes",
+    "slug": "count-complete-tree-nodes",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Binary Search",
+      "Bit Manipulation",
+      "Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 230,
+    "title": "Kth Smallest Element in a BST",
+    "slug": "kth-smallest-element-in-a-bst",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 235,
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Binary Lifting",
+      "Lowest Common Ancestor"
+    ]
+  },
+  {
+    "id": 236,
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "slug": "lowest-common-ancestor-of-a-binary-tree",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "Binary Lifting",
+      "Lowest Common Ancestor"
+    ]
+  },
+  {
+    "id": 264,
+    "title": "Ugly Number II",
+    "slug": "ugly-number-ii",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Dynamic Programming",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "id": 337,
+    "title": "House Robber III",
+    "slug": "house-robber-iii",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "DP on Trees"
+    ]
+  },
+  {
+    "id": 347,
+    "title": "Top K Frequent Elements",
+    "slug": "top-k-frequent-elements",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting",
+      "Quickselect"
+    ]
+  },
+  {
+    "id": 373,
+    "title": "Find K Pairs with Smallest Sums",
+    "slug": "find-k-pairs-with-smallest-sums",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "id": 378,
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "slug": "kth-smallest-element-in-a-sorted-matrix",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 427,
+    "title": "Construct Quad Tree",
+    "slug": "construct-quad-tree",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Tree",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 429,
+    "title": "N-ary Tree Level Order Traversal",
+    "slug": "n-ary-tree-level-order-traversal",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "id": 437,
+    "title": "Path Sum III",
+    "slug": "path-sum-iii",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 449,
+    "title": "Serialize and Deserialize BST",
+    "slug": "serialize-and-deserialize-bst",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 450,
+    "title": "Delete Node in a BST",
+    "slug": "delete-node-in-a-bst",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 451,
+    "title": "Sort Characters By Frequency",
+    "slug": "sort-characters-by-frequency",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "id": 508,
+    "title": "Most Frequent Subtree Sum",
+    "slug": "most-frequent-subtree-sum",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "DP on Trees"
+    ]
+  },
+  {
+    "id": 513,
+    "title": "Find Bottom Left Tree Value",
+    "slug": "find-bottom-left-tree-value",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 515,
+    "title": "Find Largest Value in Each Tree Row",
+    "slug": "find-largest-value-in-each-tree-row",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 538,
+    "title": "Convert BST to Greater Tree",
+    "slug": "convert-bst-to-greater-tree",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 558,
+    "title": "Logical OR of Two Binary Grids Represented as Quad-Trees",
+    "slug": "logical-or-of-two-binary-grids-represented-as-quad-trees",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Divide and Conquer",
+      "Tree"
+    ]
+  },
+  {
+    "id": 606,
+    "title": "Construct String from Binary Tree",
+    "slug": "construct-string-from-binary-tree",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 621,
+    "title": "Task Scheduler",
+    "slug": "task-scheduler",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "id": 623,
+    "title": "Add One Row to Tree",
+    "slug": "add-one-row-to-tree",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 652,
+    "title": "Find Duplicate Subtrees",
+    "slug": "find-duplicate-subtrees",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 655,
+    "title": "Print Binary Tree",
+    "slug": "print-binary-tree",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 658,
+    "title": "Find K Closest Elements",
+    "slug": "find-k-closest-elements",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "id": 659,
+    "title": "Split Array into Consecutive Subsequences",
+    "slug": "split-array-into-consecutive-subsequences",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "id": 662,
+    "title": "Maximum Width of Binary Tree",
+    "slug": "maximum-width-of-binary-tree",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 669,
+    "title": "Trim a Binary Search Tree",
+    "slug": "trim-a-binary-search-tree",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 687,
+    "title": "Longest Univalue Path",
+    "slug": "longest-univalue-path",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "DP on Trees"
+    ]
+  },
+  {
+    "id": 690,
+    "title": "Employee Importance",
+    "slug": "employee-importance",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "id": 692,
+    "title": "Top K Frequent Words",
+    "slug": "top-k-frequent-words",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ]
+  },
+  {
+    "id": 701,
+    "title": "Insert into a Binary Search Tree",
+    "slug": "insert-into-a-binary-search-tree",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 743,
+    "title": "Network Delay Time",
+    "slug": "network-delay-time",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path",
+      "Dijkstra's Algorithm"
+    ]
+  },
+  {
+    "id": 767,
+    "title": "Reorganize String",
+    "slug": "reorganize-string",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "id": 786,
+    "title": "K-th Smallest Prime Fraction",
+    "slug": "k-th-smallest-prime-fraction",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "id": 787,
+    "title": "Cheapest Flights Within K Stops",
+    "slug": "cheapest-flights-within-k-stops",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
+    "id": 814,
+    "title": "Binary Tree Pruning",
+    "slug": "binary-tree-pruning",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 855,
+    "title": "Exam Room",
+    "slug": "exam-room",
+    "difficulty": "Medium",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Design",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Merge k Sorted Lists",
+    "slug": "merge-k-sorted-lists",
+    "difficulty": "Hard",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Linked List",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort",
+      "Tournament Sort"
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Binary Tree Maximum Path Sum",
+    "slug": "binary-tree-maximum-path-sum",
+    "difficulty": "Hard",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "DP on Trees"
+    ]
+  },
+  {
+    "id": 218,
+    "title": "The Skyline Problem",
+    "slug": "the-skyline-problem",
+    "difficulty": "Hard",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Sweep Line",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
+    "id": 239,
+    "title": "Sliding Window Maximum",
+    "slug": "sliding-window-maximum",
+    "difficulty": "Hard",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue",
+      "Range Minimum/Maximum Query"
+    ]
+  },
+  {
+    "id": 295,
+    "title": "Find Median from Data Stream",
+    "slug": "find-median-from-data-stream",
+    "difficulty": "Hard",
+    "phase": 6,
+    "topic": "트리 · 재귀 · 힙",
+    "tags": [
+      "Two Pointers",
+      "Design",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Data Stream"
+    ]
+  },
+  {
+    "id": 463,
+    "title": "Island Perimeter",
+    "slug": "island-perimeter",
+    "difficulty": "Easy",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 566,
+    "title": "Reshape the Matrix",
+    "slug": "reshape-the-matrix",
+    "difficulty": "Easy",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 661,
+    "title": "Image Smoother",
+    "slug": "image-smoother",
+    "difficulty": "Easy",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 733,
+    "title": "Flood Fill",
+    "slug": "flood-fill",
+    "difficulty": "Easy",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 766,
+    "title": "Toeplitz Matrix",
+    "slug": "toeplitz-matrix",
+    "difficulty": "Easy",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 832,
+    "title": "Flipping an Image",
+    "slug": "flipping-an-image",
+    "difficulty": "Easy",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Bit Manipulation",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 867,
+    "title": "Transpose Matrix",
+    "slug": "transpose-matrix",
+    "difficulty": "Easy",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 883,
+    "title": "Projection Area of 3D Shapes",
+    "slug": "projection-area-of-3d-shapes",
+    "difficulty": "Easy",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 892,
+    "title": "Surface Area of 3D Shapes",
+    "slug": "surface-area-of-3d-shapes",
+    "difficulty": "Easy",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Math",
+      "Geometry",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 965,
+    "title": "Univalued Binary Tree",
+    "slug": "univalued-binary-tree",
+    "difficulty": "Easy",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Valid Sudoku",
+    "slug": "valid-sudoku",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Rotate Image",
+    "slug": "rotate-image",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Spiral Matrix",
+    "slug": "spiral-matrix",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Spiral Matrix II",
+    "slug": "spiral-matrix-ii",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Unique Paths II",
+    "slug": "unique-paths-ii",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Minimum Path Sum",
+    "slug": "minimum-path-sum",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Set Matrix Zeroes",
+    "slug": "set-matrix-zeroes",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Search a 2D Matrix",
+    "slug": "search-a-2d-matrix",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Longest Consecutive Sequence",
+    "slug": "longest-consecutive-sequence",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union-Find"
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Surrounded Regions",
+    "slug": "surrounded-regions",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Clone Graph",
+    "slug": "clone-graph",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Hash Table",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory"
+    ]
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "slug": "number-of-islands",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 207,
+    "title": "Course Schedule",
+    "slug": "course-schedule",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort",
+      "Directed Acyclic Graph"
+    ]
+  },
+  {
+    "id": 210,
+    "title": "Course Schedule II",
+    "slug": "course-schedule-ii",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort"
+    ]
+  },
+  {
+    "id": 211,
+    "title": "Design Add and Search Words Data Structure",
+    "slug": "design-add-and-search-words-data-structure",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "id": 221,
+    "title": "Maximal Square",
+    "slug": "maximal-square",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 240,
+    "title": "Search a 2D Matrix II",
+    "slug": "search-a-2d-matrix-ii",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 279,
+    "title": "Perfect Squares",
+    "slug": "perfect-squares",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Knapsack Problem",
+      "Complete Knapsack"
+    ]
+  },
+  {
+    "id": 289,
+    "title": "Game of Life",
+    "slug": "game-of-life",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 304,
+    "title": "Range Sum Query 2D - Immutable",
+    "slug": "range-sum-query-2d-immutable",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Design",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
+    "id": 310,
+    "title": "Minimum Height Trees",
+    "slug": "minimum-height-trees",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort"
+    ]
+  },
+  {
+    "id": 322,
+    "title": "Coin Change",
+    "slug": "coin-change",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Knapsack Problem",
+      "Complete Knapsack"
+    ]
+  },
+  {
+    "id": 365,
+    "title": "Water and Jug Problem",
+    "slug": "water-and-jug-problem",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Math",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Bézout's Lemma",
+      "Euclidean Algorithm",
+      "Greatest Common Divisor",
+      "Extended Euclidean Algorithm"
+    ]
+  },
+  {
+    "id": 386,
+    "title": "Lexicographical Numbers",
+    "slug": "lexicographical-numbers",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Depth-First Search",
+      "Trie"
+    ]
+  },
+  {
+    "id": 399,
+    "title": "Evaluate Division",
+    "slug": "evaluate-division",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory",
+      "Shortest Path",
+      "Bellman–Ford Algorithm",
+      "Floyd–Warshall Algorithm"
+    ]
+  },
+  {
+    "id": 417,
+    "title": "Pacific Atlantic Water Flow",
+    "slug": "pacific-atlantic-water-flow",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 419,
+    "title": "Battleships in a Board",
+    "slug": "battleships-in-a-board",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 433,
+    "title": "Minimum Genetic Mutation",
+    "slug": "minimum-genetic-mutation",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search",
+      "Bidirectional Search"
+    ]
+  },
+  {
+    "id": 498,
+    "title": "Diagonal Traverse",
+    "slug": "diagonal-traverse",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 529,
+    "title": "Minesweeper",
+    "slug": "minesweeper",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 542,
+    "title": "01 Matrix",
+    "slug": "01-matrix",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 547,
+    "title": "Number of Provinces",
+    "slug": "number-of-provinces",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory"
+    ]
+  },
+  {
+    "id": 565,
+    "title": "Array Nesting",
+    "slug": "array-nesting",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Depth-First Search"
+    ]
+  },
+  {
+    "id": 672,
+    "title": "Bulb Switcher II",
+    "slug": "bulb-switcher-ii",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "id": 676,
+    "title": "Implement Magic Dictionary",
+    "slug": "implement-magic-dictionary",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Design",
+      "Trie"
+    ]
+  },
+  {
+    "id": 684,
+    "title": "Redundant Connection",
+    "slug": "redundant-connection",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory"
+    ]
+  },
+  {
+    "id": 695,
+    "title": "Max Area of Island",
+    "slug": "max-area-of-island",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 721,
+    "title": "Accounts Merge",
+    "slug": "accounts-merge",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 752,
+    "title": "Open the Lock",
+    "slug": "open-the-lock",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Breadth-First Search",
+      "Bidirectional Search"
+    ]
+  },
+  {
+    "id": 785,
+    "title": "Is Graph Bipartite?",
+    "slug": "is-graph-bipartite",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory",
+      "Graph Coloring",
+      "Bipartite Graph"
+    ]
+  },
+  {
+    "id": 794,
+    "title": "Valid Tic-Tac-Toe State",
+    "slug": "valid-tic-tac-toe-state",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 802,
+    "title": "Find Eventual Safe States",
+    "slug": "find-eventual-safe-states",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort",
+      "Kosaraju's Algorithm",
+      "Tarjan's SCC Algorithm"
+    ]
+  },
+  {
+    "id": 807,
+    "title": "Max Increase to Keep City Skyline",
+    "slug": "max-increase-to-keep-city-skyline",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 835,
+    "title": "Image Overlap",
+    "slug": "image-overlap",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 840,
+    "title": "Magic Squares In Grid",
+    "slug": "magic-squares-in-grid",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 841,
+    "title": "Keys and Rooms",
+    "slug": "keys-and-rooms",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory"
+    ]
+  },
+  {
+    "id": 851,
+    "title": "Loud and Rich",
+    "slug": "loud-and-rich",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Depth-First Search",
+      "Graph Theory",
+      "Topological Sort",
+      "Directed Acyclic Graph"
+    ]
+  },
+  {
+    "id": 861,
+    "title": "Score After Flipping Matrix",
+    "slug": "score-after-flipping-matrix",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Bit Manipulation",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 863,
+    "title": "All Nodes Distance K in Binary Tree",
+    "slug": "all-nodes-distance-k-in-binary-tree",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 865,
+    "title": "Smallest Subtree with all the Deepest Nodes",
+    "slug": "smallest-subtree-with-all-the-deepest-nodes",
+    "difficulty": "Medium",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree",
+      "Binary Lifting",
+      "Lowest Common Ancestor",
+      "DP on Trees"
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Word Ladder",
+    "slug": "word-ladder",
+    "difficulty": "Hard",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Breadth-First Search",
+      "Bidirectional Search"
+    ]
+  },
+  {
+    "id": 174,
+    "title": "Dungeon Game",
+    "slug": "dungeon-game",
+    "difficulty": "Hard",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 212,
+    "title": "Word Search II",
+    "slug": "word-search-ii",
+    "difficulty": "Hard",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Trie",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 297,
+    "title": "Serialize and Deserialize Binary Tree",
+    "slug": "serialize-and-deserialize-binary-tree",
+    "difficulty": "Hard",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 301,
+    "title": "Remove Invalid Parentheses",
+    "slug": "remove-invalid-parentheses",
+    "difficulty": "Hard",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "id": 329,
+    "title": "Longest Increasing Path in a Matrix",
+    "slug": "longest-increasing-path-in-a-matrix",
+    "difficulty": "Hard",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Topological Sort",
+      "Memoization",
+      "Matrix",
+      "Directed Acyclic Graph"
+    ]
+  },
+  {
+    "id": 332,
+    "title": "Reconstruct Itinerary",
+    "slug": "reconstruct-itinerary",
+    "difficulty": "Hard",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "String",
+      "Depth-First Search",
+      "Graph Theory",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Eulerian Circuit",
+      "Eulerian Path",
+      "Semi-Eulerian Graph"
+    ]
+  },
+  {
+    "id": 352,
+    "title": "Data Stream as Disjoint Intervals",
+    "slug": "data-stream-as-disjoint-intervals",
+    "difficulty": "Hard",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Hash Table",
+      "Binary Search",
+      "Union-Find",
+      "Design",
+      "Data Stream",
+      "Ordered Set"
+    ]
+  },
+  {
+    "id": 363,
+    "title": "Max Sum of Rectangle No Larger Than K",
+    "slug": "max-sum-of-rectangle-no-larger-than-k",
+    "difficulty": "Hard",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix",
+      "Prefix Sum",
+      "Ordered Set"
+    ]
+  },
+  {
+    "id": 407,
+    "title": "Trapping Rain Water II",
+    "slug": "trapping-rain-water-ii",
+    "difficulty": "Hard",
+    "phase": 7,
+    "topic": "그래프 · 탐색",
+    "tags": [
+      "Array",
+      "Breadth-First Search",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 257,
+    "title": "Binary Tree Paths",
+    "slug": "binary-tree-paths",
+    "difficulty": "Easy",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 401,
+    "title": "Binary Watch",
+    "slug": "binary-watch",
+    "difficulty": "Easy",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 1863,
+    "title": "Sum of All Subset XOR Totals",
+    "slug": "sum-of-all-subset-xor-totals",
+    "difficulty": "Easy",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Math",
+      "Backtracking",
+      "Bit Manipulation",
+      "Combinatorics",
+      "Enumeration"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Letter Combinations of a Phone Number",
+    "slug": "letter-combinations-of-a-phone-number",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Generate Parentheses",
+    "slug": "generate-parentheses",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bracket Sequences"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Combination Sum",
+    "slug": "combination-sum",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Combination Sum II",
+    "slug": "combination-sum-ii",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Permutations",
+    "slug": "permutations",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Permutations II",
+    "slug": "permutations-ii",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Combinations",
+    "slug": "combinations",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Backtracking"
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Subsets",
+    "slug": "subsets",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Word Search",
+    "slug": "word-search",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Gray Code",
+    "slug": "gray-code",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Subsets II",
+    "slug": "subsets-ii",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Restore IP Addresses",
+    "slug": "restore-ip-addresses",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Unique Binary Search Trees II",
+    "slug": "unique-binary-search-trees-ii",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Dynamic Programming",
+      "Backtracking",
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Path Sum II",
+    "slug": "path-sum-ii",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Backtracking",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Palindrome Partitioning",
+    "slug": "palindrome-partitioning",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "id": 216,
+    "title": "Combination Sum III",
+    "slug": "combination-sum-iii",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
+    "id": 306,
+    "title": "Additive Number",
+    "slug": "additive-number",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "id": 357,
+    "title": "Count Numbers with Unique Digits",
+    "slug": "count-numbers-with-unique-digits",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Backtracking"
+    ]
+  },
+  {
+    "id": 473,
+    "title": "Matchsticks to Square",
+    "slug": "matchsticks-to-square",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "id": 491,
+    "title": "Non-decreasing Subsequences",
+    "slug": "non-decreasing-subsequences",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 494,
+    "title": "Target Sum",
+    "slug": "target-sum",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Knapsack Problem",
+      "0-1 Knapsack"
+    ]
+  },
+  {
+    "id": 526,
+    "title": "Beautiful Arrangement",
+    "slug": "beautiful-arrangement",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask"
+    ]
+  },
+  {
+    "id": 638,
+    "title": "Shopping Offers",
+    "slug": "shopping-offers",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask",
+      "Knapsack Problem",
+      "Complete Knapsack"
+    ]
+  },
+  {
+    "id": 698,
+    "title": "Partition to K Equal Sum Subsets",
+    "slug": "partition-to-k-equal-sum-subsets",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bit Manipulation",
+      "Memoization",
+      "Bitmask"
+    ]
+  },
+  {
+    "id": 756,
+    "title": "Pyramid Transition Matrix",
+    "slug": "pyramid-transition-matrix",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 784,
+    "title": "Letter Case Permutation",
+    "slug": "letter-case-permutation",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 797,
+    "title": "All Paths From Source to Target",
+    "slug": "all-paths-from-source-to-target",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Backtracking",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Directed Acyclic Graph"
+    ]
+  },
+  {
+    "id": 816,
+    "title": "Ambiguous Coordinates",
+    "slug": "ambiguous-coordinates",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Enumeration"
+    ]
+  },
+  {
+    "id": 842,
+    "title": "Split Array into Fibonacci Sequence",
+    "slug": "split-array-into-fibonacci-sequence",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "String",
+      "Backtracking"
+    ]
+  },
+  {
+    "id": 949,
+    "title": "Largest Time for Given Digits",
+    "slug": "largest-time-for-given-digits",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Enumeration"
+    ]
+  },
+  {
+    "id": 967,
+    "title": "Numbers With Same Consecutive Differences",
+    "slug": "numbers-with-same-consecutive-differences",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Backtracking",
+      "Breadth-First Search"
+    ]
+  },
+  {
+    "id": 988,
+    "title": "Smallest String Starting From Leaf",
+    "slug": "smallest-string-starting-from-leaf",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "String",
+      "Backtracking",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
+  },
+  {
+    "id": 1079,
+    "title": "Letter Tile Possibilities",
+    "slug": "letter-tile-possibilities",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Counting"
+    ]
+  },
+  {
+    "id": 1219,
+    "title": "Path with Maximum Gold",
+    "slug": "path-with-maximum-gold",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 1238,
+    "title": "Circular Permutation in Binary Representation",
+    "slug": "circular-permutation-in-binary-representation",
+    "difficulty": "Medium",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Math",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Sudoku Solver",
+    "slug": "sudoku-solver",
+    "difficulty": "Hard",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix",
+      "Algorithm X",
+      "Dancing Links"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "N-Queens",
+    "slug": "n-queens",
+    "difficulty": "Hard",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Backtracking",
+      "Algorithm X"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "N-Queens II",
+    "slug": "n-queens-ii",
+    "difficulty": "Hard",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Backtracking",
+      "Algorithm X"
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Word Ladder II",
+    "slug": "word-ladder-ii",
+    "difficulty": "Hard",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Breadth-First Search",
+      "Bidirectional Search"
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Word Break II",
+    "slug": "word-break-ii",
+    "difficulty": "Hard",
+    "phase": 8,
+    "topic": "백트래킹",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Trie",
+      "Memoization"
+    ]
+  },
+  {
+    "id": 409,
+    "title": "Longest Palindrome",
+    "slug": "longest-palindrome",
+    "difficulty": "Easy",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 605,
+    "title": "Can Place Flowers",
+    "slug": "can-place-flowers",
+    "difficulty": "Easy",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 860,
+    "title": "Lemonade Change",
+    "slug": "lemonade-change",
+    "difficulty": "Easy",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 976,
+    "title": "Largest Perimeter Triangle",
+    "slug": "largest-perimeter-triangle",
+    "difficulty": "Easy",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Sorting",
+      "Quicksort",
+      "Polygons"
+    ]
+  },
+  {
+    "id": 1005,
+    "title": "Maximize Sum Of Array After K Negations",
+    "slug": "maximize-sum-of-array-after-k-negations",
+    "difficulty": "Easy",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 1013,
+    "title": "Partition Array Into Three Parts With Equal Sum",
+    "slug": "partition-array-into-three-parts-with-equal-sum",
+    "difficulty": "Easy",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 1217,
+    "title": "Minimum Cost to Move Chips to The Same Position",
+    "slug": "minimum-cost-to-move-chips-to-the-same-position",
+    "difficulty": "Easy",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 1221,
+    "title": "Split a String in Balanced Strings",
+    "slug": "split-a-string-in-balanced-strings",
+    "difficulty": "Easy",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "String",
+      "Greedy",
+      "Counting"
+    ]
+  },
+  {
+    "id": 1323,
+    "title": "Maximum 69 Number",
+    "slug": "maximum-69-number",
+    "difficulty": "Easy",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 1403,
+    "title": "Minimum Subsequence in Non-Increasing Order",
+    "slug": "minimum-subsequence-in-non-increasing-order",
+    "difficulty": "Easy",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Jump Game II",
+    "slug": "jump-game-ii",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Jump Game",
+    "slug": "jump-game",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Best Time to Buy and Sell Stock II",
+    "slug": "best-time-to-buy-and-sell-stock-ii",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Gas Station",
+    "slug": "gas-station",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 334,
+    "title": "Increasing Triplet Subsequence",
+    "slug": "increasing-triplet-subsequence",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Longest Increasing Subsequence"
+    ]
+  },
+  {
+    "id": 376,
+    "title": "Wiggle Subsequence",
+    "slug": "wiggle-subsequence",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 397,
+    "title": "Integer Replacement",
+    "slug": "integer-replacement",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Dynamic Programming",
+      "Greedy",
+      "Bit Manipulation",
+      "Memoization"
+    ]
+  },
+  {
+    "id": 624,
+    "title": "Maximum Distance in Arrays",
+    "slug": "maximum-distance-in-arrays",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 670,
+    "title": "Maximum Swap",
+    "slug": "maximum-swap",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 714,
+    "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+    "slug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 738,
+    "title": "Monotone Increasing Digits",
+    "slug": "monotone-increasing-digits",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 781,
+    "title": "Rabbits in Forest",
+    "slug": "rabbits-in-forest",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 870,
+    "title": "Advantage Shuffle",
+    "slug": "advantage-shuffle",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 881,
+    "title": "Boats to Save People",
+    "slug": "boats-to-save-people",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Timsort"
+    ]
+  },
+  {
+    "id": 910,
+    "title": "Smallest Range II",
+    "slug": "smallest-range-ii",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Math",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 945,
+    "title": "Minimum Increment to Make Array Unique",
+    "slug": "minimum-increment-to-make-array-unique",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "id": 948,
+    "title": "Bag of Tokens",
+    "slug": "bag-of-tokens",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 954,
+    "title": "Array of Doubled Pairs",
+    "slug": "array-of-doubled-pairs",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 955,
+    "title": "Delete Columns to Make Sorted II",
+    "slug": "delete-columns-to-make-sorted-ii",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 969,
+    "title": "Pancake Sorting",
+    "slug": "pancake-sorting",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
+    "id": 984,
+    "title": "String Without AAA or BBB",
+    "slug": "string-without-aaa-or-bbb",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "String",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 991,
+    "title": "Broken Calculator",
+    "slug": "broken-calculator",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Math",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 1007,
+    "title": "Minimum Domino Rotations For Equal Row",
+    "slug": "minimum-domino-rotations-for-equal-row",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 1024,
+    "title": "Video Stitching",
+    "slug": "video-stitching",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 1029,
+    "title": "Two City Scheduling",
+    "slug": "two-city-scheduling",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Hungarian Algorithm",
+      "Successive Shortest Path Algorithm"
+    ]
+  },
+  {
+    "id": 1053,
+    "title": "Previous Permutation With One Swap",
+    "slug": "previous-permutation-with-one-swap",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 1054,
+    "title": "Distant Barcodes",
+    "slug": "distant-barcodes",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Counting"
+    ]
+  },
+  {
+    "id": 1081,
+    "title": "Smallest Subsequence of Distinct Characters",
+    "slug": "smallest-subsequence-of-distinct-characters",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ]
+  },
+  {
+    "id": 1090,
+    "title": "Largest Values From Labels",
+    "slug": "largest-values-from-labels",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Greedy",
+      "Sorting",
+      "Counting"
+    ]
+  },
+  {
+    "id": 1130,
+    "title": "Minimum Cost Tree From Leaf Values",
+    "slug": "minimum-cost-tree-from-leaf-values",
+    "difficulty": "Medium",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack",
+      "Cartesian Tree"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Wildcard Matching",
+    "slug": "wildcard-matching",
+    "difficulty": "Hard",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Candy",
+    "slug": "candy",
+    "difficulty": "Hard",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 330,
+    "title": "Patching Array",
+    "slug": "patching-array",
+    "difficulty": "Hard",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
+    "id": 420,
+    "title": "Strong Password Checker",
+    "slug": "strong-password-checker",
+    "difficulty": "Hard",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "String",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "id": 502,
+    "title": "IPO",
+    "slug": "ipo",
+    "difficulty": "Hard",
+    "phase": 9,
+    "topic": "그리디 · 구간",
+    "tags": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Palindrome Number",
+    "slug": "palindrome-number",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Roman to Integer",
+    "slug": "roman-to-integer",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Plus One",
+    "slug": "plus-one",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Add Binary",
+    "slug": "add-binary",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Climbing Stairs",
+    "slug": "climbing-stairs",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Pascal's Triangle",
+    "slug": "pascals-triangle",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Pascal's Triangle II",
+    "slug": "pascals-triangle-ii",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "slug": "best-time-to-buy-and-sell-stock",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Single Number",
+    "slug": "single-number",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Excel Sheet Column Title",
+    "slug": "excel-sheet-column-title",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "id": 171,
+    "title": "Excel Sheet Column Number",
+    "slug": "excel-sheet-column-number",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "id": 190,
+    "title": "Reverse Bits",
+    "slug": "reverse-bits",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 191,
+    "title": "Number of 1 Bits",
+    "slug": "number-of-1-bits",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Divide and Conquer",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 231,
+    "title": "Power of Two",
+    "slug": "power-of-two",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ]
+  },
+  {
+    "id": 258,
+    "title": "Add Digits",
+    "slug": "add-digits",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Simulation",
+      "Number Theory"
+    ]
+  },
+  {
+    "id": 263,
+    "title": "Ugly Number",
+    "slug": "ugly-number",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "id": 292,
+    "title": "Nim Game",
+    "slug": "nim-game",
+    "difficulty": "Easy",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Brainteaser",
+      "Minimax",
+      "Game Theory",
+      "Nim Game",
+      "Impartial Game"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Reverse Integer",
+    "slug": "reverse-integer",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Integer to Roman",
+    "slug": "integer-to-roman",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Divide Two Integers",
+    "slug": "divide-two-integers",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Multiply Strings",
+    "slug": "multiply-strings",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Pow(x, n)",
+    "slug": "powx-n",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "slug": "maximum-subarray",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Unique Paths",
+    "slug": "unique-paths",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Edit Distance",
+    "slug": "edit-distance",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Decode Ways",
+    "slug": "decode-ways",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Interleaving String",
+    "slug": "interleaving-string",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Triangle",
+    "slug": "triangle",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Single Number II",
+    "slug": "single-number-ii",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Word Break",
+    "slug": "word-break",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization",
+      "Brute-Force Search"
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Maximum Product Subarray",
+    "slug": "maximum-product-subarray",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 166,
+    "title": "Fraction to Recurring Decimal",
+    "slug": "fraction-to-recurring-decimal",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "id": 172,
+    "title": "Factorial Trailing Zeroes",
+    "slug": "factorial-trailing-zeroes",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math"
+    ]
+  },
+  {
+    "id": 198,
+    "title": "House Robber",
+    "slug": "house-robber",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 201,
+    "title": "Bitwise AND of Numbers Range",
+    "slug": "bitwise-and-of-numbers-range",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 204,
+    "title": "Count Primes",
+    "slug": "count-primes",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Math",
+      "Enumeration",
+      "Number Theory",
+      "Primality Test",
+      "Sieve Theory",
+      "Prime Number Sieve"
+    ]
+  },
+  {
+    "id": 213,
+    "title": "House Robber II",
+    "slug": "house-robber-ii",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 223,
+    "title": "Rectangle Area",
+    "slug": "rectangle-area",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Geometry"
+    ]
+  },
+  {
+    "id": 241,
+    "title": "Different Ways to Add Parentheses",
+    "slug": "different-ways-to-add-parentheses",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "String",
+      "Dynamic Programming",
+      "Recursion",
+      "Memoization",
+      "Bracket Sequences"
+    ]
+  },
+  {
+    "id": 260,
+    "title": "Single Number III",
+    "slug": "single-number-iii",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 309,
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 313,
+    "title": "Super Ugly Number",
+    "slug": "super-ugly-number",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 318,
+    "title": "Maximum Product of Word Lengths",
+    "slug": "maximum-product-of-word-lengths",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "String",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 319,
+    "title": "Bulb Switcher",
+    "slug": "bulb-switcher",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Brainteaser"
+    ]
+  },
+  {
+    "id": 343,
+    "title": "Integer Break",
+    "slug": "integer-break",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 371,
+    "title": "Sum of Two Integers",
+    "slug": "sum-of-two-integers",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 372,
+    "title": "Super Pow",
+    "slug": "super-pow",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Divide and Conquer",
+      "Euler's Totient Function",
+      "Euler's Theorem"
+    ]
+  },
+  {
+    "id": 375,
+    "title": "Guess Number Higher or Lower II",
+    "slug": "guess-number-higher-or-lower-ii",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Minimax",
+      "Game Theory"
+    ]
+  },
+  {
+    "id": 377,
+    "title": "Combination Sum IV",
+    "slug": "combination-sum-iv",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "slug": "insert-delete-getrandom-o1",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "id": 384,
+    "title": "Shuffle an Array",
+    "slug": "shuffle-an-array",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Math",
+      "Design",
+      "Randomized"
+    ]
+  },
+  {
+    "id": 390,
+    "title": "Elimination Game",
+    "slug": "elimination-game",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "id": 393,
+    "title": "UTF-8 Validation",
+    "slug": "utf-8-validation",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 396,
+    "title": "Rotate Function",
+    "slug": "rotate-function",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 398,
+    "title": "Random Pick Index",
+    "slug": "random-pick-index",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Reservoir Sampling",
+      "Randomized"
+    ]
+  },
+  {
+    "id": 416,
+    "title": "Partition Equal Subset Sum",
+    "slug": "partition-equal-subset-sum",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Knapsack Problem",
+      "0-1 Knapsack"
+    ]
+  },
+  {
+    "id": 421,
+    "title": "Maximum XOR of Two Numbers in an Array",
+    "slug": "maximum-xor-of-two-numbers-in-an-array",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Trie"
+    ]
+  },
+  {
+    "id": 423,
+    "title": "Reconstruct Original Digits from English",
+    "slug": "reconstruct-original-digits-from-english",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
+    "id": 447,
+    "title": "Number of Boomerangs",
+    "slug": "number-of-boomerangs",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
+    "id": 453,
+    "title": "Minimum Moves to Equal Array Elements",
+    "slug": "minimum-moves-to-equal-array-elements",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
+    "id": 464,
+    "title": "Can I Win",
+    "slug": "can-i-win",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Memoization",
+      "Game Theory",
+      "Bitmask"
+    ]
+  },
+  {
+    "id": 467,
+    "title": "Unique Substrings in Wraparound String",
+    "slug": "unique-substrings-in-wraparound-string",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 470,
+    "title": "Implement Rand10() Using Rand7()",
+    "slug": "implement-rand10-using-rand7",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Rejection Sampling",
+      "Randomized",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "id": 474,
+    "title": "Ones and Zeroes",
+    "slug": "ones-and-zeroes",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "String",
+      "Dynamic Programming",
+      "Knapsack Problem",
+      "0-1 Knapsack"
+    ]
+  },
+  {
+    "id": 477,
+    "title": "Total Hamming Distance",
+    "slug": "total-hamming-distance",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Math",
+      "Bit Manipulation"
+    ]
+  },
+  {
+    "id": 478,
+    "title": "Generate Random Point in a Circle",
+    "slug": "generate-random-point-in-a-circle",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Geometry",
+      "Rejection Sampling",
+      "Randomized"
+    ]
+  },
+  {
+    "id": 486,
+    "title": "Predict the Winner",
+    "slug": "predict-the-winner",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Recursion",
+      "Minimax",
+      "Game Theory",
+      "Zero-Sum Game"
+    ]
+  },
+  {
+    "id": 516,
+    "title": "Longest Palindromic Subsequence",
+    "slug": "longest-palindromic-subsequence",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 518,
+    "title": "Coin Change II",
+    "slug": "coin-change-ii",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Knapsack Problem",
+      "Complete Knapsack"
+    ]
+  },
+  {
+    "id": 519,
+    "title": "Random Flip Matrix",
+    "slug": "random-flip-matrix",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Hash Table",
+      "Math",
+      "Reservoir Sampling",
+      "Randomized"
+    ]
+  },
+  {
+    "id": 537,
+    "title": "Complex Number Multiplication",
+    "slug": "complex-number-multiplication",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "String",
+      "Simulation"
+    ]
+  },
+  {
+    "id": 553,
+    "title": "Optimal Division",
+    "slug": "optimal-division",
+    "difficulty": "Medium",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Math",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Regular Expression Matching",
+    "slug": "regular-expression-matching",
+    "difficulty": "Hard",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Permutation Sequence",
+    "slug": "permutation-sequence",
+    "difficulty": "Hard",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Scramble String",
+    "slug": "scramble-string",
+    "difficulty": "Hard",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Distinct Subsequences",
+    "slug": "distinct-subsequences",
+    "difficulty": "Hard",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Best Time to Buy and Sell Stock III",
+    "slug": "best-time-to-buy-and-sell-stock-iii",
+    "difficulty": "Hard",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Palindrome Partitioning II",
+    "slug": "palindrome-partitioning-ii",
+    "difficulty": "Hard",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "String",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Max Points on a Line",
+    "slug": "max-points-on-a-line",
+    "difficulty": "Hard",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Geometry",
+      "Euclidean Algorithm",
+      "Greatest Common Divisor"
+    ]
+  },
+  {
+    "id": 188,
+    "title": "Best Time to Buy and Sell Stock IV",
+    "slug": "best-time-to-buy-and-sell-stock-iv",
+    "difficulty": "Hard",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
+    "id": 233,
+    "title": "Number of Digit One",
+    "slug": "number-of-digit-one",
+    "difficulty": "Hard",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Recursion"
+    ]
+  },
+  {
+    "id": 273,
+    "title": "Integer to English Words",
+    "slug": "integer-to-english-words",
+    "difficulty": "Hard",
+    "phase": 10,
+    "topic": "DP · 수학 · 종합",
+    "tags": [
+      "Math",
+      "String",
+      "Recursion"
+    ]
+  }
+]

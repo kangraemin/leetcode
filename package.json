@@ -1,0 +1,15 @@
+{
+  "name": "leetcode-650",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "test": "node --test tests/*.test.js",
+    "lint": "node --check app.js && node --check core.js",
+    "build": "node scripts/build.js",
+    "test:browser": "node scripts/browser-test.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.64.1"
+  }
+}

@@ -1,0 +1,15 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {emptyState,today,recordAttempt,schedule,validateState} from '../core.js';
+const ps=JSON.parse(readFileSync(new URL('../data/problems.json',import.meta.url)));
+test('650 unique real IDs with exact target counts',()=>{assert.equal(ps.length,650);assert.equal(new Set(ps.map(p=>p.id)).size,650);for(const [d,n] of Object.entries({Easy:200,Medium:400,Hard:50}))assert.equal(ps.filter(p=>p.difficulty===d).length,n);assert.equal(ps[0].id,1480);assert.ok(ps.every(p=>/^[a-z0-9-]+$/.test(p.slug)));});
+test('Seoul date crosses midnight correctly',()=>assert.equal(today(new Date('2026-10-25T15:01:00Z')),'2026-10-26'));
+test('one or two new problems, no backlog after skipped days',()=>{const s=emptyState();assert.deepEqual(schedule(ps,s,'2026-10-25').fresh.map(p=>p.id),[1480]);s.goal=2;assert.equal(schedule(ps,s,'2027-01-01').fresh.length,2);});
+test('failed problem carries forward without advancing',()=>{const s=recordAttempt(emptyState(),1480,'retry','','2026-10-25');assert.equal(schedule(ps,s,'2026-10-26').fresh[0].id,1480);assert.equal(s.records[1480].firstCompleted,null);});
+test('completion stops daily queue and starts next day',()=>{const s=recordAttempt(emptyState(),1480,'hint','map','2026-10-25');assert.equal(schedule(ps,s,'2026-10-25').fresh.length,0);assert.equal(schedule(ps,s,'2026-10-26').fresh[0].id,1672);assert.equal(schedule(ps,s,'2026-10-28').review[0].id,1480);});
+test('review does not count as a new daily completion',()=>{let s=recordAttempt(emptyState(),1480,'hint','','2026-10-25');s=recordAttempt(s,1480,'solo','','2026-10-28');assert.equal(schedule(ps,s,'2026-10-28').freshToday,0);assert.equal(s.records[1480].firstCompleted,'2026-10-25');});
+test('backup roundtrip and malicious/invalid records rejected',()=>{const s=recordAttempt(emptyState(),1480,'solution','<script>test</script>','2026-10-25');assert.deepEqual(validateState(JSON.parse(JSON.stringify(s)),ps),s);assert.throws(()=>validateState({...s,goal:99},ps));assert.throws(()=>validateState({...s,records:{999999:s.records[1480]}},ps));assert.throws(()=>validateState({...s,records:{1480:{...s.records[1480],date:'2026-02-30'}}},ps));});
+test('Hard is held until foundation problems are attempted',()=>{assert.ok(schedule(ps,{...emptyState(),goal:2},'2026-10-25').fresh.every(p=>p.difficulty!=='Hard'));});
+test('failed attempt remains today’s problem instead of offering extra work',()=>{const s=recordAttempt(emptyState(),1480,'retry','','2026-10-25');assert.equal(schedule(ps,s,'2026-10-25').fresh[0].id,1480);});
+test('Hard queue unlocks when all 600 foundation problems complete',()=>{let s=emptyState();for(const p of ps.filter(p=>p.difficulty!=='Hard'))s=recordAttempt(s,p.id,'solo','','2026-10-20');const next=schedule(ps,s,'2026-10-25');assert.equal(next.fresh[0].difficulty,'Hard');});

@@ -1,0 +1,46 @@
+# ai-bouncer 레포 설정 — 기본값으로 채웠다. 이 레포에 맞게 고치면 된다.
+#   workflows.<모드>.stages   단계 순서. 모드는 여럿 둘 수 있고 이름은 마음대로 정한다
+#   stages.<단계>.prompt      그 단계에서 할 일 (prompt_file 로 md 파일도 된다)
+#   stages.<단계>.run         끝내려 할 때 도는 검사. 전부 exit 0 이어야 다음 단계로 간다
+#   stages.<단계>.items       세부 항목 {id: {label, prompt, run}}
+#   stages.<단계>.choosable   항목(없으면 단계 자체)을 고르는 방식: ask 사용자에게 묻는다 / auto AI 가 고른다 / all 전부(기본)
+# 마지막 단계까지 마치기 전에는 멈출 수 없다. 형식: docs/SCHEMA.md
+
+choosable: auto
+
+workflows:
+  plan:
+    label: 계획을 세우고 승인받은 뒤 구현
+    stages: [plan, implement, verify, finalize]
+  simple:
+    label: 계획 없이 바로 구현
+    stages: [implement, verify, finalize]
+
+stages:
+  plan:
+    prompt_file: prompts/plan.md
+
+  implement:
+    prompt: |
+      [implement] 구현 단계다. 계획을 세운 뒤라면 그 계획대로 옮긴다.
+
+  verify:
+    prompt: |
+      [verify] 검증 단계다. 추측 금지 — 실제로 실행해서 확인한다.
+        - 요청받은 범위가 전부 구현됐는지 다시 대조한다. 빠진 것은 지금 마저 한다.
+        - 실패한 것을 통과로 보고하지 않는다.
+    choosable: auto
+    items:
+      test:   # 명령을 모르는 기본값이라 run 이 없다. 레포 설정에서 prompt(bouncer record)·run(bouncer passed)으로 덮어쓴다
+        label: 테스트·빌드·린트 실행
+        prompt: 이 프로젝트의 테스트 / 빌드 / 린트를 직접 실행하고 결과를 확인한다.
+      review:
+        label: 변경분 리뷰
+        prompt: git diff 를 처음부터 끝까지 읽고 버그·누락·불필요한 변경을 찾아 고친다.
+
+  finalize:
+    prompt: |
+      [finalize] 마무리 단계다.
+        1. 변경 파일을 개별 git add 한다. `git add .` / `-A` 금지.
+        2. 커밋하고 push한다.
+        3. 이번 작업과 무관한 WIP는 커밋하지 않고 그대로 둔다(stash·삭제 금지).

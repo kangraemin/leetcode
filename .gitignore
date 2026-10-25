@@ -1,0 +1,10 @@
+dist/
+node_modules/
+.DS_Store
+.claude/ai-bouncer/tasks/
+.claude/ai-bouncer/compiled.json
+.claude/ai-bouncer/.active
+.ai-bouncer/
+*.bak
+.claude/ai-bouncer/workflow.compiled.json
+.claude/ai-bouncer/init.json

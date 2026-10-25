@@ -1,0 +1,16 @@
+import {chromium} from 'playwright';
+import assert from 'node:assert/strict';
+const browser=await chromium.launch({headless:true,channel:"chrome"});const page=await browser.newPage({viewport:{width:1440,height:1000}});const errors=[];page.on('pageerror',e=>errors.push(e.message));
+await page.goto('http://localhost:4173');await page.getByRole('heading',{name:'오늘도, 한 문제씩.'}).waitFor();
+await page.screenshot({path:'/tmp/leetcode-desktop.png',fullPage:true});
+await page.getByRole('button',{name:'풀이 기록하기'}).click();await page.getByLabel('힌트 받음',{exact:true}).check();await page.getByLabel('막힌 점 또는 기억할 것',{exact:false}).fill('배열 순회 연습 <script>alert(1)</script>');await page.getByRole('button',{name:'기록 저장',exact:true}).click();
+await page.reload();await page.getByRole('heading',{name:'오늘의 공부를 기록했어요.'}).waitFor();
+await page.getByRole('button',{name:'2문제',exact:true}).click();await page.getByRole('heading',{name:'Richest Customer Wealth'}).waitFor();
+await page.getByRole('button',{name:'커리큘럼',exact:false}).click();await page.getByRole('searchbox').fill('Two Sum');assert.ok(await page.locator('.mini-row').count()>0);
+await page.getByRole('combobox').selectOption('Hard');assert.equal(await page.locator('.mini-row').count(),0);
+await page.getByRole('button',{name:'내 기록',exact:false}).click();await page.getByText('배열 순회 연습 <script>alert(1)</script>',{exact:true}).waitFor();assert.equal(await page.locator('script:not([src])').count(),0);
+const downloadPromise=page.waitForEvent('download');await page.getByRole('button',{name:'기록 백업 ↓'}).click();const download=await downloadPromise;await download.saveAs('/tmp/leetcode-backup.json');
+await page.locator('#file').setInputFiles({name:'bad.json',mimeType:'application/json',buffer:Buffer.from('{"version":9}')});await page.getByRole('status').filter({hasText:'지원하지 않는 백업'}).waitFor();
+page.on('dialog',d=>d.accept());await page.locator('#file').setInputFiles('/tmp/leetcode-backup.json');await page.getByRole('status').filter({hasText:'복원'}).waitFor();
+await page.getByRole('button',{name:'오늘의 공부',exact:false}).click();await page.setViewportSize({width:390,height:844});await page.screenshot({path:'/tmp/leetcode-mobile.png',fullPage:true});assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+assert.deepEqual(errors,[]);console.log('Browser passed: save/reload, daily goal, search/filter, escaped notes, export/import, invalid backup, mobile overflow, no runtime errors.');await browser.close();

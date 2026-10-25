@@ -1,0 +1,10 @@
+{
+  "checkedAt": "2026-10-25",
+  "source": "https://leetcode.com/problemset/",
+  "selection": "첫 30문제 수동 순서. 이후 유형·난이도 배분에 맞춰 무료 문제를 번호순 선정한 초기 커리큘럼.",
+  "counts": {
+    "Easy": 200,
+    "Medium": 400,
+    "Hard": 50
+  }
+}
