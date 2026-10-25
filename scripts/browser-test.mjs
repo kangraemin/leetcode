@@ -1,7 +1,7 @@
 import {chromium} from 'playwright';
 import assert from 'node:assert/strict';
 const browser=await chromium.launch({headless:true,channel:"chrome"});const page=await browser.newPage({viewport:{width:1440,height:1000}});const errors=[];page.on('pageerror',e=>errors.push(e.message));
-await page.goto('http://localhost:4173');await page.getByRole('heading',{name:'오늘도, 한 문제씩.'}).waitFor();
+await page.goto('http://localhost:4173/#today');await page.getByRole('heading',{name:'오늘도, 한 문제씩.'}).waitFor();
 await page.screenshot({path:'/tmp/leetcode-desktop.png',fullPage:true});
 await page.getByRole('button',{name:'풀이 기록하기'}).click();await page.getByLabel('힌트 받음',{exact:true}).check();await page.getByLabel('막힌 점 또는 기억할 것',{exact:false}).fill('배열 순회 연습 <script>alert(1)</script>');await page.getByRole('button',{name:'기록 저장',exact:true}).click();
 await page.reload();await page.getByRole('heading',{name:'오늘의 공부를 기록했어요.'}).waitFor();

@@ -5,9 +5,10 @@
   "scripts": {
     "start": "python3 -m http.server 4173",
     "test": "node --test tests/*.test.js",
-    "lint": "node --check app.js && node --check core.js",
+    "lint": "node --check app.js && node --check core.js && node --check learning.js && node --check data/lessons.js",
     "build": "node scripts/build.js",
-    "test:browser": "node scripts/browser-test.mjs"
+    "test:browser": "node scripts/browser-test.mjs",
+    "test:learning": "node scripts/learning-test.mjs"
   },
   "devDependencies": {
     "playwright": "^1.64.1"

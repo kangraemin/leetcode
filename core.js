@@ -1,5 +1,6 @@
+import {lessons as lessonCatalog} from './data/lessons.js';
 export const LABELS={solo:'혼자 풀었음',hint:'힌트 받음',solution:'해설 보고 이해',retry:'아직 못 풀었음'};
-export const emptyState=()=>({version:1,goal:1,records:{}});
+export const emptyState=()=>({version:1,goal:1,records:{},lessons:{}});
 export function today(date=new Date()){return new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Seoul',year:'numeric',month:'2-digit',day:'2-digit'}).format(date);}
 export function addDays(day,n){return new Date(Date.parse(day+'T12:00:00Z')+n*86400000).toISOString().slice(0,10);}
 export const completed=r=>r && r.status!=='retry';
@@ -29,5 +30,8 @@ export function validateState(value,problems){
   if(!ids.has(id)||!r||!Object.hasOwn(LABELS,r.status)||typeof r.note!=='string'||r.note.length>2000||!date(r.date)||!date(r.due)||!Number.isInteger(r.interval)||r.interval<1||r.interval>60||!(r.firstCompleted===null||date(r.firstCompleted))||!Array.isArray(r.attempts)||r.attempts.length>10000||!r.attempts.every(a=>a&&date(a.date)&&Object.hasOwn(LABELS,a.status)))throw Error('백업에 올바르지 않은 기록이 있어요. 기존 기록은 유지돼요.');
   records[id]={status:r.status,note:r.note,date:r.date,due:r.due,interval:r.interval,firstCompleted:r.firstCompleted,attempts:r.attempts.map(a=>({date:a.date,status:a.status}))};
  }
- return {version:1,goal:value.goal,records};
+ const lessons=value.lessons??{};
+ const allowed=new Set(lessonCatalog.map(l=>l.id));
+ if(typeof lessons!=='object'||Array.isArray(lessons)||Object.entries(lessons).some(([id,done])=>!allowed.has(id)||done!==true))throw Error('학습 기록 형식이 올바르지 않아요.');
+ return {version:1,goal:value.goal,records,lessons:{...lessons}};
 }

@@ -11,6 +11,27 @@ npm start
 
 http://localhost:4173 에서 사용합니다. Python 3와 Node.js가 필요합니다. 웹 자체는 HTML/CSS/JavaScript로 동작하며 서버 데이터베이스는 없습니다.
 
+## Kotlin 메서드 학습
+
+첫 화면의 `Kotlin 익히기`에서 12개 단원을 순서대로 진행합니다. 기본 배열 개념 대신 자동완성에서 찾던 API 이름, 반환 타입, 원본 변경 여부를 익힙니다.
+
+1. 합계·최댓값: sum / maxOrNull / minOrNull
+2. 조회: contains / indexOf / getOrNull
+3. 정렬: sort / sorted / sortedArray
+4. 변환: map / mapIndexed / toIntArray
+5. 조건: filter / count / any / all
+6. 복사·역순·비교: copyOf / reverse / reversedArray / contentEquals
+7. 순회: indices / lastIndex / withIndex / forEachIndexed
+8. MutableList 추가·삭제
+9. Set 중복 처리
+10. Map 기본값·삽입
+11. String 부분 문자열·변환
+12. groupBy / groupingBy / eachCount
+
+단원마다 **예제와 타입 → API 선택 → 메서드 이름 빈칸 입력**을 거칩니다. 오답 설명과 힌트를 제공하고 정답 확인 후 완료를 저장합니다. 빈칸은 정해진 이름을 확인하는 연습이며 Kotlin 컴파일러가 아닙니다. 각 단원에서 공식 Kotlin 문서와 관련 LeetCode 문제를 열 수 있습니다. 학습 진도는 기존 진도 백업에 포함되며 이전 백업도 불러올 수 있습니다.
+
+브라우저 전체 학습 흐름 확인: `npm run test:learning` (`npm start` 실행 중).
+
 ## 기능
 
 - 서울 날짜 기준 오늘의 문제 1~2개, 미완료 문제 이어 풀기
